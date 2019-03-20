@@ -5,10 +5,15 @@ Bot to provide information for halo speedrunning. Visit Haloruns.com!
 To run:
 
 Install Node.js
+
 Open your node.js command prompt as an administrator
+
 Enter "npm install discord.js"
+
 Next enter "npm install discord.io"
+
 Next enter "npm install request"
+
 Next enter "npm install winston"
 
 In your command line, navigate to your repository. 
